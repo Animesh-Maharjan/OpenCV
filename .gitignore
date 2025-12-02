@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files
+models/
+*.tar.gz
+*.pb
+
+# Images
+images/
+imges/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+# Logs
+*.log
+
+# Other
+*.bak
+*.tmp
